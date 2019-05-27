@@ -1,7 +1,7 @@
 # Multi-Threading-Implementation-of-FloydWarshall-Algorithm
 Outlines the design and development of the Implementation for the FloydWarshall Algorithm using a mutithreaded process. The program was written in C++ and it is cross platform.
 The program uses multithreads to find the shortest path between nodes.
-The program involves the use of multi-threads to find the shortest path between nodes. The report includes the design process and the pseudo-code for the program as well as some results.
+
 
 FloydWarshall Algorithm is an algorithm for finding the shortest path in a weighted graph with positive or negative edges. A single execution of the algorithm will find the lengths.
 
